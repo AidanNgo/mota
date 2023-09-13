@@ -8,6 +8,16 @@
         "id": "https://AidanNgo.github.io/mota/meshes-of-the-afternoon/canvas-1/canvas",
         "type": "Canvas",
         "duration": 809.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://AidanNgo.github.io/mota/annotations/meshes-of-the-afternoon-canvas-1-subjective-camera.json",
+            "label": {
+              "none": ["Subjective Camera"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://AidanNgo.github.io/mota/meshes-of-the-afternoon/canvas-1/paintings",

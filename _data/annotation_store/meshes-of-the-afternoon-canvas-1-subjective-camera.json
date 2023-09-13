@@ -1,0 +1,256 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://AidanNgo.github.io/mota/annotations/meshes-of-the-afternoon-canvas-1-subjective-camera.json",
+  "type": "AnnotationPage",
+  "label": "Subjective Camera",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "meshes-of-the-afternoon-canvas-1-subjective-camera-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Point of view of the woman; her eyes move or pan around the main living room, slowly and steadily.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://AidanNgo.github.io/mota/meshes-of-the-afternoon/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://AidanNgo.github.io/mota/meshes-of-the-afternoon/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "92.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "meshes-of-the-afternoon-canvas-1-subjective-camera-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "The camera follows her movement as she comes down the stairs, eventually laying eyes on the couch that overlooks the window.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://AidanNgo.github.io/mota/meshes-of-the-afternoon/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://AidanNgo.github.io/mota/meshes-of-the-afternoon/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "154.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "meshes-of-the-afternoon-canvas-1-subjective-camera-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "While still facing the window, the camera is pulled back into a circular tube, isolating the outside scenery even more. This showcases the woman's conciousness as she falls asleep on the couch.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://AidanNgo.github.io/mota/meshes-of-the-afternoon/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://AidanNgo.github.io/mota/meshes-of-the-afternoon/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "194.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "meshes-of-the-afternoon-canvas-1-subjective-camera-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Repeating shots of the woman chasing the mysterious figure outside; she covers very little ground while the mysterious figure gets away. The woman cannot go further than the steps of her house. Potrays a sense of entrapment and desire to escape.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://AidanNgo.github.io/mota/meshes-of-the-afternoon/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://AidanNgo.github.io/mota/meshes-of-the-afternoon/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "224.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "meshes-of-the-afternoon-canvas-1-subjective-camera-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Looks over the window once again, showing the mysterious figure being pursued by the woman. The woman yet again fails to go past the steps of her house.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://AidanNgo.github.io/mota/meshes-of-the-afternoon/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://AidanNgo.github.io/mota/meshes-of-the-afternoon/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "393.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "meshes-of-the-afternoon-canvas-1-subjective-camera-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Camera movement tilts left and right repeatedly, creating the illusion that the woman's world is shifting. The woman herself is pushing against the walls to combat the contasntly tilting world. She is losing her sense of balance.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://AidanNgo.github.io/mota/meshes-of-the-afternoon/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://AidanNgo.github.io/mota/meshes-of-the-afternoon/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "432.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "meshes-of-the-afternoon-canvas-1-subjective-camera-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "The woman approaches the version of herself sleeping on the chair. She is wielding a knife, and is about to cut the sleeping woman's throat when suddenly she wakes up, and the knife-wielding woman becomes her husband. The husband stares directly at the camera, at the woman. Perhaps the husband is the figurative killer or the factor that drives the woman to kill herself.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://AidanNgo.github.io/mota/meshes-of-the-afternoon/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://AidanNgo.github.io/mota/meshes-of-the-afternoon/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "629.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "meshes-of-the-afternoon-canvas-1-subjective-camera-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Point of the view of the man; his eyes wander throughout the living room, following the glass shards on the ground that eventually lead to the wife on the chair. She is dead, with mirror shards all over her.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://AidanNgo.github.io/mota/meshes-of-the-afternoon/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://AidanNgo.github.io/mota/meshes-of-the-afternoon/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "787.0"
+        }
+      }
+    }
+  ]
+}
